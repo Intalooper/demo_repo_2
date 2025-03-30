@@ -23,3 +23,17 @@ by default we are in the main branch
 
 Creating a new branch: 
 git checkout -b feature-readme-instructions
+
+How to merge two branches locally: 
+merge
+
+how to change branch: 
+git checkout
+
+
+
+diff (shows you which changes have been made)
+
+
+##### Update x
+Hello, UofA!
